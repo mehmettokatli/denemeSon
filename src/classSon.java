@@ -1,4 +1,4 @@
-public class denemeSon {
+public class classSon {
     public static void main(String[] args) {
         System.out.println("work6");
     }
